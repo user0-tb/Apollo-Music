@@ -59,7 +59,6 @@
 		android:taskAffinity="${applicationId}.task"
 		android:supportsRtl="true"
 		android:theme="@style/Apollo.Theme.Dark"
-                android:name="androidx.multidex.MultiDexApplication" 
 		tools:ignore="UnusedAttribute">
 
 		<!-- provider to share music files -->
